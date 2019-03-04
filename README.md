@@ -6,7 +6,7 @@ Arogya is a low bandwidth health monitoring solution for remote locations.
 The solution uses IOT for data collection from a patient.
 
 ![SIH2019](https://img.shields.io/badge/SIH-2019-orange.svg)
-[![HitCount](http://hits.dwyl.io/vixrant/kjsce-hackathon-18.svg)](http://hits.dwyl.io/vixrant/kjsce-hackathon-18)
+[![HitCount](http://hits.dwyl.io/vixrant/sih-19.svg)](http://hits.dwyl.io/vixrant/sih-19)
 
 ![app-startup](/docs/images/app-startup.jpeg)
 _App screenshot_
