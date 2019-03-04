@@ -54,19 +54,19 @@ To build the webpack, `npm run build` or `yarn build`.
 It was built by 5 developers in 32 hours (4 hours for judging and prize distribution), from 8AM on March 2 to 4PM on March 3.
 
 > Vikrant Gajria – IOT, WebRTC
-> [https://github.com/vixrant](https://github.com/vixrant/)
+> [github.com/vixrant](https://github.com/vixrant)
 
 > Rushabh Shroff – Reactjs, WebRTC
-> [https://github.com/vixrant](https://github.com/vixrant/)
+> [github.com/Rushabhshroff](https://github.com/Rushabhshroff)
 
 > Nishay Madhani - IOT
-> [https://github.com/vixrant](https://github.com/vixrant/)
+> [github.com/nshmadhani](https://github.com/nshmadhani)
 
 > Yash Javeri - React Native
-> [https://github.com/vixrant](https://github.com/vixrant/)
+> [github.com/YashJaveri](https://github.com/YashJaveri)
 
 > Nishant Nimbare - React Native
-> [https://github.com/vixrant](https://github.com/vixrant/)
+> [github.com/nishant-nimbare](https://github.com/nishant-nimbare)
 
 ## Contributing
 
